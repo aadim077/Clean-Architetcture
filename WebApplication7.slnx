@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="WebApplication7.Application/WebApplication7.Application.csproj" />
+  <Project Path="WebApplication7.Domain/WebApplication7.Domain.csproj" />
+  <Project Path="WebApplication7.Infrastructure/WebApplication7.Infrastructure.csproj" />
+  <Project Path="WebApplication7/WebApplication7.csproj" />
+</Solution>
